@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.cfg
+src/helper/Analyze.py
+src/helper/Beadcount.py
+src/helper/Detection.py
+src/helper/Tools.py
+src/helper/Visualization.py
+src/helper/__init__.py
+src/prime/Brightfield.py
+src/prime/Fluoresence.py
+src/prime/TubeVolume.py
+src/prime/__init__.py
+src/prime_analysis.egg-info/PKG-INFO
+src/prime_analysis.egg-info/SOURCES.txt
+src/prime_analysis.egg-info/dependency_links.txt
+src/prime_analysis.egg-info/top_level.txt
